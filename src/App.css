@@ -1,0 +1,59 @@
+.Nav {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.Nav-logo {
+  height: 20vmin;
+}
+
+.Nav-links {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: 10px; 
+}
+
+.Link {
+margin: auto
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 50vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.column1 {
+  text-align: left;
+}
+
+.column2 {
+  text-align: right;
+}
+
+.about-me {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
+}
