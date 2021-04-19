@@ -1,3 +1,7 @@
+/* ////////////////
+/////// Nav ///////
+/////////////////// */
+
 .Nav {
   display: flex;
   flex-direction: row;
@@ -19,9 +23,17 @@
   height: 10px; 
 }
 
+.Nav-links a {
+  text-decoration: none;
+}
+
 .Link {
 margin: auto
 }
+
+/* ////////////////
+////// Main ///////
+/////////////////// */
 
 .App {
   text-align: center;
@@ -46,6 +58,7 @@ margin: auto
 
 .column1 {
   text-align: left;
+  width: 50%
 }
 
 .column2 {
@@ -56,4 +69,17 @@ margin: auto
   margin-left: 20%;
   margin-right: 20%;
   margin-top: 5%;
+}
+
+/* ////////////////
+//// Resources ////
+/////////////////// */
+
+.title {
+  margin-left: 3.2%;
+}
+
+.column2b {
+  text-align: left;
+  width: 50%;
 }

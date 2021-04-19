@@ -15,4 +15,4 @@ I really sucked at it. It took me quite a while to figure out how to learn to be
 
 ### Today
 
-My Github Page looks a little bare. I spend most of my spare dev time trying to build interesting apps related to DX at my dayjob. Because of the nature of it being a bank, a lot of the coding that I do is exclusively contained within private repos for security. 
+My Github Page looks a little bare. I spend most of my spare dev time trying to build interesting apps related to DX at my dayjob. Because of the nature of it being a bank, a lot of the coding that I do is exclusively contained within private repos. I'll be expanding on this one in the coming weeks to change that. 
