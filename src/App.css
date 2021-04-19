@@ -58,12 +58,10 @@ margin: auto
 
 .column1 {
   text-align: left;
-  width: 50%
 }
 
 .column2 {
   text-align: right;
-  width: 50%
 }
 
 .about-me {
@@ -78,6 +76,11 @@ margin: auto
 
 .title {
   margin-left: 3.2%;
+}
+
+.column1b {
+  text-align: left;
+  width: 50%
 }
 
 .column2b {

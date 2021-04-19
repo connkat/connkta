@@ -6,7 +6,7 @@ function Resources() {
     <div className="Resources">
       <Nav />
       <div className="columns">
-        <div className="column1">
+        <div className="column1b">
           <div className="title">
             <h3>Blog posts:</h3>
           </div>
