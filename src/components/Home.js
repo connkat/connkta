@@ -13,8 +13,15 @@ function Home() {
             <p>con·​cat·​e·​nate | \ kän-ˈka-tə-ˌnāt</p>
             <p>: to link together in a series of chain</p>
           </div>
-
-          <img src={cartoon} className="App-logo" alt="App-logo" />
+          <div class="centre-column">
+            <img src={cartoon} className="App-logo" alt="App-logo" />
+            <div class="subtext">
+              Art by{" "}
+              <a href="https://www.instagram.com/perlette.pdf/">
+                Marin Perlette
+              </a>
+            </div>
+          </div>
 
           <div class="column2">
             <h1>Connkat (proper noun)</h1>

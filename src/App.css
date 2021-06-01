@@ -28,7 +28,7 @@
 }
 
 .Link {
-margin: auto
+  margin: auto;
 }
 
 /* ////////////////
@@ -70,6 +70,26 @@ margin: auto
   margin-top: 5%;
 }
 
+.subtext {
+  font-size: 10px;
+}
+
+/* /////////////////
+////   Mobile   ////
+/////////////////// */
+
+@media only screen and (max-width: 600px) {
+  .columns {
+    border-bottom: 1px solid grey;
+    flex-direction: column;
+  }
+
+  .about-me {
+    font-size: 12px;
+    margin-bottom: 10%;
+  }
+}
+
 /* ////////////////
 //// Resources ////
 /////////////////// */
@@ -80,7 +100,7 @@ margin: auto
 
 .column1b {
   text-align: left;
-  width: 50%
+  width: 50%;
 }
 
 .column2b {

@@ -11,7 +11,10 @@ function Resources() {
             <h3>Blog posts:</h3>
           </div>
           <ul>
-            <a href="https</ul>://www.linkedin.com/pulse/should-you-learn-code-while-self-isolation-resources-kat-connolly">
+          Check me out on <a href="https://connkat.medium.com/">Medium</a>
+          </ul>
+          <ul>
+            <a href="https://www.linkedin.com/pulse/should-you-learn-code-while-self-isolation-resources-kat-connolly">
               Should You Learn to Code in Self-Isolation
             </a>
           </ul>
