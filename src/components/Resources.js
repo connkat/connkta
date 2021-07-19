@@ -37,7 +37,7 @@ function Resources() {
           <br />
           <h3>Resume:
           </h3>
-          <ul><a href="https://github.com/connkat/Resume/blob/master/July18.pdf" target="_blank" rel="noreferrer">Download/View</a></ul>
+          <ul><a href="https://github.com/connkat/Resume/blob/master/KConnolly.pdf" target="_blank" rel="noreferrer">Download/View</a></ul>
         </div>
         </div>
         <div className="column2b">
