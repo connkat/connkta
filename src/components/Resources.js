@@ -33,6 +33,12 @@ function Resources() {
               Imposter Syndrome: How I Learned to Love Errors
             </a>
           </ul>
+        <div className="title">
+          <br />
+          <h3>Resume:
+          </h3>
+          <ul><a href="https://github.com/connkat/Resume/blob/master/July18.pdf" target="_blank" rel="noreferrer">Download/View</a></ul>
+        </div>
         </div>
         <div className="column2b">
           <div className="title">
