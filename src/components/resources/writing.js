@@ -9,9 +9,6 @@ function Writing() {
       </div>
       <div className="content">
         <ul>
-          <b>Check me out on <a href="https://connkat.medium.com/">Medium</a></b>
-        </ul>
-        <ul>
           <a href="https://www.linkedin.com/pulse/should-you-learn-code-while-self-isolation-resources-kat-connolly">
             Should You Learn to Code in Self-Isolation
           </a>
@@ -20,6 +17,11 @@ function Writing() {
           <a href="https://www.linkedin.com/posts/connkat_how-to-get-involved-with-calgarys-tech-scene-activity-6749479086315462657-nrdT">
             How to Get Involved in Calgary's Tech Scene
           </a>
+        </ul>
+        <ul>
+          <b>
+            Check me out on <a href="https://connkat.medium.com/">Medium</a>
+          </b>
         </ul>
         <ul>
           <a href="https://www.linkedin.com/pulse/practical-reasons-against-bootcamps-kat-connolly/?trackingId=pvQYEK%2B3SsqrhZwyZW2j0w%3D%3D">
