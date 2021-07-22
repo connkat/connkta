@@ -1,3 +1,4 @@
+
 /* ////////////////
 /////// Nav ///////
 /////////////////// */
@@ -7,24 +8,15 @@
   flex-direction: row;
   position: relative;
   margin-bottom: 0;
+  background-color: #f5f5ef;
 }
 
-.Nav-logo {
+.nav-logo {
   height: 20vmin;
 }
 
-.Nav-links {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-  height: 10px; 
-}
-
-.Nav-links a {
-  text-decoration: none;
+.nav-links {
+  height: 15vmin;
 }
 
 .Link {
@@ -35,16 +27,17 @@
 ////// Main ///////
 /////////////////// */
 
-.App {
+.app {
   text-align: center;
+  background-color: #f5f5ef;
 }
 
-.App-logo {
+.app-logo{
   height: 50vmin;
   pointer-events: none;
 }
 
-.App-link {
+.app-link {
   color: #61dafb;
 }
 
@@ -68,21 +61,16 @@
   margin-left: 20%;
   margin-right: 20%;
   margin-top: 5%;
+  padding-bottom: 7%
 }
 
 .subtext {
   font-size: 10px;
 }
 
-/* /////////////////
-////   Mobile   ////
-/////////////////// */
+/* ////   Mobile   //// */
 
 @media only screen and (max-width: 600px) {
-  .columns {
-    border-bottom: 1px solid grey;
-    flex-direction: column;
-  }
 
   .about-me {
     font-size: 12px;
@@ -94,16 +82,38 @@
 //// Resources ////
 /////////////////// */
 
+.section {
+  display: flex;
+  flex-direction: row;
+}
+
 .title {
-  margin-left: 3.2%;
+  display: flex;
+  align-items: flex-start;
+  margin-left: 10%;
 }
 
-.column1b {
-  text-align: left;
-  width: 50%;
+.title-img {
+  height: 30vmin;
 }
 
-.column2b {
-  text-align: left;
-  width: 50%;
+.content {
+  margin-top: 10%;
+  width: 47%;
+  align-items: center;
+  justify-content: center;
+  display:flex;
+}
+
+.resume-button {
+  height: 50%;
+}
+
+.art-button {
+  height: 350px;
+  margin-left: 5%;
+}
+
+.hiking {
+  flex-direction: column;
 }

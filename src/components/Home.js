@@ -4,7 +4,7 @@ import Nav from "./Nav";
 
 function Home() {
   return (
-    <div className="App">
+    <div className="app">
       <Nav />
       <body>
         <div class="columns">
@@ -14,7 +14,7 @@ function Home() {
             <p>: to link together in a series of chain</p>
           </div>
           <div class="centre-column">
-            <img src={cartoon} className="App-logo" alt="App-logo" />
+            <img src={cartoon} className="app-logo" alt="app-logo" />
             <div class="subtext">
               Art by{" "}
               <a href="https://www.instagram.com/perlette.pdf/">
