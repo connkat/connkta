@@ -8,9 +8,9 @@ function Nav() {
       <div className="Link">
         <Link to="/resources">Links</Link>
       </div>
-      <div className="Nav-logo">
+      <div className="nav-logo">
       <Link to="/">
-        <img src={connkat} className="Nav-logo" alt="Nav-logo" />
+        <img src={connkat} className="nav-logo" alt="nav-logo" />
       </Link>
       </div>
       <div className="Link">

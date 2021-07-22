@@ -9,7 +9,7 @@
   margin-bottom: 0;
 }
 
-.Nav-logo {
+.nav-logo {
   height: 20vmin;
 }
 
@@ -74,9 +74,7 @@
   font-size: 10px;
 }
 
-/* /////////////////
-////   Mobile   ////
-/////////////////// */
+/* ////   Mobile   //// */
 
 @media only screen and (max-width: 600px) {
   .columns {
@@ -96,6 +94,10 @@
 
 .title {
   margin-left: 3.2%;
+}
+
+.subtitle {
+  height: 20vmin;
 }
 
 .column1b {

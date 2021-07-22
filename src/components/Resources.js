@@ -1,5 +1,10 @@
 import "../App.css";
 import Nav from "./Nav";
+import writing from "../images/writing.png";
+import hiking from "../images/hiking.png";
+import art from "../images/art.png";
+import resume from "../images/resume.png";
+
 
 function Resources() {
   return (
@@ -8,7 +13,7 @@ function Resources() {
       <div className="columns">
         <div className="column1b">
           <div className="title">
-            <h3>Blog posts:</h3>
+          <img src={writing} className="subtitle" alt="writing" />
           </div>
           <ul>
           Check me out on <a href="https://connkat.medium.com/">Medium</a>
@@ -35,14 +40,13 @@ function Resources() {
           </ul>
         <div className="title">
           <br />
-          <h3>Resume:
-          </h3>
+          <img src={resume} className="subtitle" alt="resume" />
           <ul><a href="https://github.com/connkat/Resume/blob/master/KConnolly.pdf" target="_blank" rel="noreferrer">Download/View</a></ul>
         </div>
         </div>
         <div className="column2b">
           <div className="title">
-            <h3>Creative Projects:</h3>
+          <img src={art} className="subtitle" alt="art" />
           </div>
           <ul>
             <a href="https://www.instagram.com/panrobinco/?hl=en">
@@ -50,6 +54,7 @@ function Resources() {
             </a>
           </ul>
           <ul>
+          <img src={hiking} className="subtitle" alt="hiking" />
             <a href="http://rockymountainmerit.co">Rocky Mountain Merit Co.</a>
           </ul>
           <ul>
