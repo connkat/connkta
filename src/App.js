@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Home, Resume, Resources } from "./components";
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Router>
         <Switch>
           <Route path="/" exact component={() => <Home />} />
