@@ -6,9 +6,9 @@ function Hiking() {
     <div className="section">
       <div className="title">
         <img src={hiking} className="title-img" alt="hiking" />
-        <a href="http://rockymountainmerit.co">Rocky Mountain Merit Co.</a>
         </div>
         <div className="content">
+        <a href="http://rockymountainmerit.co">Rocky Mountain Merit Co.</a>
         <iframe
           width="315"
           height="220"

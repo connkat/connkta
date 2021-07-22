@@ -1,5 +1,6 @@
 import "../../App.css";
 import resume from "../../images/resume.png";
+import viewResume from "../../images/view-resume.png";
 
 function Resume() {
   return (
@@ -14,7 +15,7 @@ function Resume() {
             target="_blank"
             rel="noreferrer"
           >
-            Download/View
+            <img src={viewResume} className="nav-logo" alt="nav-logo" />
           </a>
         </ul>
       </div>
