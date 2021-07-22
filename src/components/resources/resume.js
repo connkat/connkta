@@ -15,7 +15,7 @@ function Resume() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={viewResume} className="nav-logo" alt="nav-logo" />
+            <img src={viewResume} className="resume-button" alt="resume-button" />
           </a>
         </ul>
       </div>

@@ -9,7 +9,7 @@ function Writing() {
       </div>
       <div className="content">
         <ul>
-          Check me out on <a href="https://connkat.medium.com/">Medium</a>
+          <b>Check me out on <a href="https://connkat.medium.com/">Medium</a></b>
         </ul>
         <ul>
           <a href="https://www.linkedin.com/pulse/should-you-learn-code-while-self-isolation-resources-kat-connolly">

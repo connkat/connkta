@@ -99,5 +99,21 @@
 
 .content {
   margin-top: 10%;
-  
+  width: 47%;
+  align-items: center;
+  justify-content: center;
+  display:flex;
+}
+
+.resume-button {
+  height: 50%;
+}
+
+.art-button {
+  height: 350px;
+  margin-left: 5%;
+}
+
+.hiking {
+  flex-direction: column;
 }
