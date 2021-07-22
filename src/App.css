@@ -14,18 +14,8 @@
   height: 20vmin;
 }
 
-.Nav-links {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-  height: 10px; 
-}
-
-.Nav-links a {
-  text-decoration: none;
+.nav-links {
+  height: 15vmin;
 }
 
 .Link {
@@ -79,10 +69,6 @@
 /* ////   Mobile   //// */
 
 @media only screen and (max-width: 600px) {
-  .columns {
-    border-bottom: 1px solid grey;
-    flex-direction: column;
-  }
 
   .about-me {
     font-size: 12px;
@@ -94,20 +80,21 @@
 //// Resources ////
 /////////////////// */
 
+.section {
+  display: flex;
+  flex-direction: row;
+}
+
 .title {
-  margin-left: 3.2%;
+  display: flex;
+  align-items: flex-start;
+  margin-left: 10%;
 }
 
-.subtitle {
-  height: 20vmin;
+.title-img {
+  height: 30vmin;
 }
 
-.column1b {
-  text-align: left;
-  width: 50%;
-}
-
-.column2b {
-  text-align: left;
-  width: 50%;
+.content {
+  margin-top: 5%;
 }

@@ -9,7 +9,7 @@ function Nav() {
     <div className="Nav">
       <div className="Link">
         <Link to="/resources">
-        <img src={resources} className="nav-logo" alt="nav-logo" />
+        <img src={resources} className="nav-links" alt="nav-logo" />
         </Link>
       </div>
       <div className="nav-logo">
@@ -19,7 +19,7 @@ function Nav() {
       </div>
       <div className="Link">
         <a href="mailto:hi.connkat@gmail.com" target="_blank" rel="noreferrer">
-        <img src={contact} className="nav-logo" alt="nav-logo" />
+        <img src={contact} className="nav-links" alt="nav-logo" />
         </a>
       </div>
     </div>
