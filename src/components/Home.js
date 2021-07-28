@@ -1,6 +1,7 @@
-import cartoon from "../images/cartoon.png";
 import "../App.css";
 import Nav from "./Nav";
+import cartoon from "../images/cartoon.png";
+import github from "../images/github.png";
 
 function Home() {
   return (
@@ -35,7 +36,9 @@ function Home() {
           artistic portfolio that spans a wide variety of media forms, I found
           my true calling in software development in 2018. With such a varied
           and successful career behind me, I apply myself to my work beyond the
-          constraints of a normal dev.
+          constraints of a normal dev.<a href="https://www.github.com/connkat">
+            <img src={github} alt="github" className="github-tiny"/>
+          </a>
         </div>
       </body>
     </div>
