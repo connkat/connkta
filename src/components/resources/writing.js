@@ -1,5 +1,6 @@
 import "../../App.css";
 import writing from "../../images/writing.png";
+import medium from "../../images/medium.png";
 
 function Writing() {
   return (
@@ -20,8 +21,9 @@ function Writing() {
         </ul>
         <ul>
           <b>
-            
-            Check me out on <a href="https://connkat.medium.com/">Medium</a>
+            Check me out on <a href="https://connkat.medium.com/">
+            <img src={medium} alt="medium" className="medium"/>
+            </a>
           </b>
         </ul>
         <ul>

@@ -117,3 +117,13 @@
 .hiking {
   flex-direction: column;
 }
+
+.github-logo {
+  max-height: 300px;
+  max-width: 100px
+}
+
+.medium{
+  max-height: 300px;
+  max-width: 100px
+}

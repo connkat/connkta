@@ -1,6 +1,7 @@
 import "../App.css";
 
 import Nav from "./Nav";
+import Projects from "./resources/projects";
 import Writing from "./resources/writing";
 import Art from "./resources/art";
 import Resume from "./resources/resume";
@@ -11,6 +12,7 @@ function Resources() {
     <body>
       <div className="Resources">
         <Nav />
+        <Projects />
         <Writing />
         <Resume />
         <Art />
