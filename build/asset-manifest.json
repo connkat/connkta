@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.aeb6f849.chunk.css",
-    "main.js": "/static/js/main.e2cf4f56.chunk.js",
-    "main.js.map": "/static/js/main.e2cf4f56.chunk.js.map",
+    "main.css": "/static/css/main.147e755c.chunk.css",
+    "main.js": "/static/js/main.4ed14974.chunk.js",
+    "main.js.map": "/static/js/main.4ed14974.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.459abbf4.js",
     "runtime-main.js.map": "/static/js/runtime-main.459abbf4.js.map",
     "static/js/2.ac07fb25.chunk.js": "/static/js/2.ac07fb25.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ff67e150.chunk.js": "/static/js/3.ff67e150.chunk.js",
     "static/js/3.ff67e150.chunk.js.map": "/static/js/3.ff67e150.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.aeb6f849.chunk.css.map": "/static/css/main.aeb6f849.chunk.css.map",
+    "static/css/main.147e755c.chunk.css.map": "/static/css/main.147e755c.chunk.css.map",
     "static/js/2.ac07fb25.chunk.js.LICENSE.txt": "/static/js/2.ac07fb25.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Evolventa-Regular.5ff33576.otf",
     "static/media/cartoon.ecccf52a.png": "/static/media/cartoon.ecccf52a.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.459abbf4.js",
     "static/js/2.ac07fb25.chunk.js",
-    "static/css/main.aeb6f849.chunk.css",
-    "static/js/main.e2cf4f56.chunk.js"
+    "static/css/main.147e755c.chunk.css",
+    "static/js/main.4ed14974.chunk.js"
   ]
 }
