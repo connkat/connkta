@@ -1,4 +1,5 @@
-import "../../App.css";
+import "../../pages";
+import "../../pages/Resources.css"
 import art from "../../images/art.png";
 import prc from "../../images/prc.png";
 

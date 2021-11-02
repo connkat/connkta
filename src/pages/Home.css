@@ -1,0 +1,65 @@
+/* ////////////////
+////// Main ///////
+/////////////////// */
+
+.home {
+  text-align: center;
+  background-color: #f5f5ef;
+  padding-top:20vh;
+  height: 100%;
+}
+
+.app-logo {
+  height: 50vmin;
+  pointer-events: none;
+}
+
+.app-link {
+  color: #61dafb;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.column1 {
+  text-align: left;
+}
+
+.column2 {
+  text-align: right;
+}
+
+.about-me {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
+  padding-bottom: 5%;
+
+  line-height: 40px;
+}
+
+.subtext {
+  font-size: 1vh;
+  line-height: 1vh;
+}
+
+/* ////   Mobile   //// */
+
+@media only screen and (max-width: 600px) {
+  .about-me {
+    font-size: 2vh;
+    margin-bottom: 10%;
+    line-height: 2vh;
+    width: 70%;
+    text-align: left;
+  }
+
+  .columns {
+    flex-direction: column;
+  }
+}

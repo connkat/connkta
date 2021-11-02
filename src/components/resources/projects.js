@@ -1,4 +1,4 @@
-import "../../App.css";
+import "../../pages/Resources.css"
 import projects from "../../images/projects.png";
 import github from "../../images/github.png";
 

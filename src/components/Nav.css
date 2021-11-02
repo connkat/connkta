@@ -1,0 +1,24 @@
+
+/* ////////////////
+/////// Nav ///////
+/////////////////// */
+
+.Nav {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  margin-bottom: 0;
+  background-color: #f5f5ef;
+}
+
+.nav-logo {
+  height: 20vmin;
+}
+
+.nav-links {
+  height: 15vmin;
+}
+
+.Link {
+  margin: auto;
+}

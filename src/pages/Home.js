@@ -1,12 +1,10 @@
-import "../App.css";
-import Nav from "./Nav";
+import "./Home.css";
 import cartoon from "../images/cartoon.png";
 import github from "../images/github.png";
 
 function Home() {
   return (
-    <div className="app">
-      <Nav />
+    <div className="home">
       <body>
         <div class="columns">
           <div class="column1">

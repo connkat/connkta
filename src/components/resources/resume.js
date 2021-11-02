@@ -1,4 +1,4 @@
-import "../../App.css";
+import "../../pages/Resources.css"
 import resume from "../../images/resume.png";
 import viewResume from "../../images/view-resume.png";
 

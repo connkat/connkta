@@ -1,4 +1,4 @@
-import "../App.css";
+import "./Nav.css";
 import { Link } from "react-router-dom";
 import resources from "../images/resources.png";
 import contact from "../images/contact.png";
