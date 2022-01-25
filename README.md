@@ -14,8 +14,12 @@ After being consistently successful both in school and in my previous career, my
 
 I joined [Neo Financial](http://neofinancial.com) back in 2019 when it just 20 dudes working out of a cramped co-working space, and helped grow the team to over 300 in just under 2 years. About a year into my time there as a developer, I spearheaded an onboarding program to help grow our team as we took on larger work. I created a sandbox environment and taught all new developers (junior to senior) Neo's techstack and specific code patterns over the course of a week and saw over 50 developers successfully go through my program and join product teams. I decided to leave Neo in the summer of 2021 to put my focus back on development over management. 
 
+### Recently
+
+My Github Page looks a little bare. In the 2 years I was at Neo, most of my spare dev time trying to build interesting tools related to my dayjob. Because of the nature of it being a bank, a lot of the coding that I did was exclusively contained within private repos. While I spent my first year+ working on product features (everything from DB management to infra to building FE clients), I spent my last 6 months at Neo building DX projects and really loved it the most. I made many single page apps, slack bots, and upgrades to our existing CLI tool to help our developer team have a better experience.
+
+After Leaving Neo mid-2021, I was mentoring the full stack web dev bootcamp and instructing the Flex bootcamp for [Lighthouse Labs](http://lighthouselabs.ca) while taking on some small contracts on the side while running my hiking badge business [Rocky Mountain Merit Co.](https://www.instagram.com/rockymountainmeritco).
+
 ### Today
 
-My Github Page looks a little bare. In the 2 years I was at Neo, most of my spare dev time trying to build interesting tools related to my dayjob. Because of the nature of it being a bank, a lot of the coding that I did was exclusively contained within private repos. While I spent my first year+ working on product features (everything from DB management to infra to building FE clients), I spent my last 6 months at Neo building DX projects and really loved it. I made many single page apps, slack bots, and upgrades to our existing CLI tool to help our developer team have a better experience.
-
-I am currently mentoring the full stack web dev bootcamp for [Lighthouse Labs](http://lighthouselabs.ca) and taking on some small contracts on the side while running my hiking badge business [Rocky Mountain Merit Co.](https://www.instagram.com/rockymountainmeritco).
+I am currently working fulltime as a software developer at [Checkfront](http://checkfront.com) and learning the ropes at a more mature company. My goal this year is to contribute something to my Github at least 5 days a week, even if it is small. I am also studying PHP and architecture in my spare time so I hope to be more proficient in those areas by the year's end. 
