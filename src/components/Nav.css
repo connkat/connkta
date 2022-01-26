@@ -9,10 +9,11 @@
   position: relative;
   margin-bottom: 0;
   background-color: #f5f5ef;
+  height: 17vh;
 }
 
 .nav-logo {
-  height: 20vmin;
+  height: 17vh;
 }
 
 .nav-links {

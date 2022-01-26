@@ -5,7 +5,7 @@
 .home {
   text-align: center;
   background-color: #f5f5ef;
-  padding-top:20vh;
+  padding-top: 20vh;
   height: 100%;
 }
 
@@ -28,21 +28,23 @@
 
 .column1 {
   text-align: left;
-  max-width: 33%
+  max-width: 33%;
 }
 
 .column2 {
   text-align: right;
-  max-width: 33%
+  max-width: 33%;
+}
+
+.centre-column {
+  max-width: 40%;
 }
 
 .about-me {
-  margin-left: 20%;
-  margin-right: 20%;
-  margin-top: 5%;
-  padding-bottom: 5%;
-
-  line-height: 40px;
+  margin-left: 30vh;
+  margin-right: 30vh;
+  margin-top: 2vh;
+  padding-bottom: 2vh;
 }
 
 .subtext {
@@ -50,18 +52,61 @@
   line-height: 1vh;
 }
 
+.icon-links {
+  margin-top: 5%;
+}
+
+.icon-tiny {
+  width: 10%;
+}
+
+.icon-tiny-linkedin {
+  width: 8%;
+  padding: 1%;
+}
+
 /* ////   Mobile   //// */
 
 @media only screen and (max-width: 600px) {
+  .home {
+    padding-top: 7vh;
+  }
   .about-me {
     font-size: 2vh;
     margin-bottom: 10%;
     line-height: 2vh;
     width: 70%;
-    text-align: left;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2.5vh;
   }
 
   .columns {
     flex-direction: column;
+  }
+  .app-logo {
+    height: 80vmin;
+  }
+
+  .column1 {
+    max-width: 100%;
+  }
+
+  .column2 {
+    max-width: 100%;
+  }
+
+  .centre-column {
+    max-width: 100%;
+  }
+
+  .icon-tiny {
+    width: 15%;
+  }
+
+  .icon-tiny-linkedin {
+    width: 14%;
+    padding-top: 2%;
   }
 }

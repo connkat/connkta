@@ -23,44 +23,46 @@ function Home() {
                 Marin Perlette
               </a>
             </div>
+            <div className="icon-links">
+              <a
+                href="https://github.com/connkat/Resume/blob/master/KConnolly.pdf"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img src={resume} alt="resume" className="icon-tiny" />
+              </a>
+              <a
+                href="https://linkedin.com/in/connkat"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={linkedIn}
+                  alt="linkedIn"
+                  className="icon-tiny-linkedin"
+                />
+              </a>
+              <a
+                href="https://www.github.com/connkat"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img src={github} alt="github" className="icon-tiny" />
+              </a>
+              <a
+                href="https://connkat.medium.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img src={medium} alt="Medium" className="icon-tiny" />
+              </a>
+            </div> 
           </div>
 
           <div class="column2">
             <h1>Connkat (proper noun)</h1>
             <p>Connolly, Katherine | \ Kat</p>
             <p>: a link between development and creativity</p>
-            <a
-              href="https://github.com/connkat/Resume/blob/master/KConnolly.pdf"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <img src={resume} alt="resume" className="icon-tiny" />
-            </a>
-            <a
-              href="https://linkedin.com/in/connkat"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <img
-                src={linkedIn}
-                alt="linkedIn"
-                className="icon-tiny-linkedin"
-              />
-            </a>
-            <a
-              href="https://www.github.com/connkat"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <img src={github} alt="github" className="icon-tiny" />
-            </a>
-            <a
-              href="https://connkat.medium.com/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <img src={medium} alt="Medium" className="icon-tiny" />
-            </a>
           </div>
         </div>
         <div class="about-me">
