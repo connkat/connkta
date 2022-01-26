@@ -28,10 +28,12 @@
 
 .column1 {
   text-align: left;
+  max-width: 33%
 }
 
 .column2 {
   text-align: right;
+  max-width: 33%
 }
 
 .about-me {

@@ -1,6 +1,10 @@
 import "./Home.css";
 import cartoon from "../images/cartoon.png";
 import github from "../images/github.png";
+import resume from "../images/resume.png";
+import linkedIn from "../images/linkedin.png";
+import medium from "../images/medium.png";
+
 
 function Home() {
   return (
@@ -26,17 +30,26 @@ function Home() {
             <h1>Connkat (proper noun)</h1>
             <p>Connolly, Katherine | \ Kat</p>
             <p>: a link between development and creativity</p>
+            <a href="https://www.github.com/connkat">
+              <img src={github} alt="github" className="icon-tiny" />
+            </a>
+            <a href="https://github.com/connkat/Resume/blob/master/KConnolly.pdf">
+              <img src={resume} alt="resume" className="icon-tiny" />
+            </a>
+            <a href="https://linkedin.com/in/connkat">
+              <img src={linkedIn} alt="linkedIn" className="icon-tiny" />
+            </a>
+            <a href="https://connkat.medium.com/">
+              <img src={medium} alt="Medium" className="icon-tiny" />
+            </a>
           </div>
         </div>
-
         <div class="about-me">
           With a Bachelor of Arts(Hons), a Masters of Public Policy, and an
           artistic portfolio that spans a wide variety of media forms, I found
           my true calling in software development in 2018. With such a varied
           and successful career behind me, I apply myself to my work beyond the
-          constraints of a normal dev.<a href="https://www.github.com/connkat">
-            <img src={github} alt="github" className="github-tiny"/>
-          </a>
+          constraints of a normal dev.
         </div>
       </body>
     </div>
