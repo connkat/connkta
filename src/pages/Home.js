@@ -5,7 +5,6 @@ import resume from "../images/resume.png";
 import linkedIn from "../images/linkedin.png";
 import medium from "../images/medium.png";
 
-
 function Home() {
   return (
     <div className="home">
@@ -30,16 +29,36 @@ function Home() {
             <h1>Connkat (proper noun)</h1>
             <p>Connolly, Katherine | \ Kat</p>
             <p>: a link between development and creativity</p>
-            <a href="https://www.github.com/connkat">
-              <img src={github} alt="github" className="icon-tiny" />
-            </a>
-            <a href="https://github.com/connkat/Resume/blob/master/KConnolly.pdf">
+            <a
+              href="https://github.com/connkat/Resume/blob/master/KConnolly.pdf"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img src={resume} alt="resume" className="icon-tiny" />
             </a>
-            <a href="https://linkedin.com/in/connkat">
-              <img src={linkedIn} alt="linkedIn" className="icon-tiny" />
+            <a
+              href="https://linkedin.com/in/connkat"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                src={linkedIn}
+                alt="linkedIn"
+                className="icon-tiny-linkedin"
+              />
             </a>
-            <a href="https://connkat.medium.com/">
+            <a
+              href="https://www.github.com/connkat"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img src={github} alt="github" className="icon-tiny" />
+            </a>
+            <a
+              href="https://connkat.medium.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img src={medium} alt="Medium" className="icon-tiny" />
             </a>
           </div>
