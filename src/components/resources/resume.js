@@ -1,5 +1,5 @@
 import "../../pages/Resources.css"
-import resume from "../../images/resume.png";
+import resume from "../../images/resume-1.png";
 import viewResume from "../../images/view-resume.png";
 
 function Resume() {
