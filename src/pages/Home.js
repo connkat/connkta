@@ -1,4 +1,8 @@
+
+// styling
 import "./Home.css";
+
+// images
 import cartoon from "../images/cartoon.png";
 import github from "../images/github.png";
 import resume from "../images/resume.png";

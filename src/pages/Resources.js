@@ -1,5 +1,10 @@
+// packages
+import Fade from "react-reveal/Fade";
+
+// styling
 import "./Resources.css";
 
+// images
 import Projects from "../components/resources/projects";
 import Writing from "../components/resources/writing";
 import Art from "../components/resources/art";
@@ -10,11 +15,21 @@ function Resources() {
   return (
     <body>
       <div className="resources">
-        <Projects />
-        <Writing />
-        <Resume />
-        <Art />
-        <Hiking />
+        <Fade>
+          <Projects />
+        </Fade>
+        <Fade>
+          <Writing />
+        </Fade>
+        <Fade>
+          <Resume />
+        </Fade>
+        <Fade>
+          <Art />
+        </Fade>
+        <Fade>
+          <Hiking />
+        </Fade>
       </div>
     </body>
   );
