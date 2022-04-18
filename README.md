@@ -1,6 +1,6 @@
 # Hey! I'm Kat, aka Connkat
 
-First thing's first: Here is my current [Resume](https://github.com/connkat/Resume/blob/master/KConnolly.pdf) and here is [a site](http://connkat.com) where you can find out a bit more about me. 
+First thing's first: Here is my current [Resume](https://github.com/connkat/Resume/blob/master/KConnolly2022.pdf) and here is [a site](http://connkat.com) where you can find out a bit more about me. 
 
 ### History 
 
