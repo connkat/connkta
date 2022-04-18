@@ -11,7 +11,7 @@ function Resume() {
       <div className="content">
         <ul>
           <a
-            href="https://github.com/connkat/Resume/blob/master/KConnolly.pdf"
+            href="https://github.com/connkat/Resume/blob/master/KConnolly2022.pdf"
             target="_blank"
             rel="noreferrer"
           >
