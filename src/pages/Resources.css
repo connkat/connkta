@@ -61,6 +61,12 @@
   left: -999em;
 }
 
+.hikingMobile {
+  display: hidden;
+  position: absolute;
+  left: -999em;
+}
+
 /* ////   Mobile   //// */
 
 @media only screen and (max-width: 600px) {
@@ -90,5 +96,13 @@
     display: visible;
     position: absolute;
     left: 0em;
+  }
+
+  .hikingMobile {
+    display: visible;
+    left: 0em;
+    background-color: #f5f5ef;
+    width: 100%;
+    padding-bottom: 5vh
   }
 }
