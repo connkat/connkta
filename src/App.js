@@ -10,7 +10,7 @@ function App() {
         <Switch>
           <Route path="/" exact component={() => <Home />} />
           <Route path="/resources" exact component={() => <Resources />} />
-          {/* <Route path="/writing" exact component={() => <Writing />} /> */}
+          <Route path="/writing" exact component={() => <Writing />} />
         </Switch>
       </Router>
     </div>
@@ -18,3 +18,5 @@ function App() {
 }
 
 export default App;
+
+
