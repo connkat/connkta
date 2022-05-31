@@ -4,7 +4,7 @@ First thing's first: Here is my current [Resume](https://github.com/connkat/Resu
 
 ### History 
 
-I am a developer based of out Calgary, AB, but I've had many careers before finally finding myself here. I completed my Bachelor's Degree in Environmental Sustainability in 2012, upgraded my BA to a BAH in 2014, and then graduated from my Masters of Public Policy program in 2015. 
+I am a developer based of out Nelson, BC  and sometimes Calgary, AB, but I've had many careers before finally finding myself here. I completed my Bachelor's Degree in Environmental Sustainability in 2012, upgraded my BA to a BAH in 2014, and then graduated from my Masters of Public Policy program in 2015. 
 
 Being a teenager in 2006 meant one thing: MySpace. I started my life-long love for creating by figuring out how to manipulate the HTML and CSS and sold custom layouts to friends for $20 each. Once the MySpace age came to an end, I forgot all about the tech side and focused on learning photoshop and design for fun. 
 
@@ -22,4 +22,4 @@ After Leaving Neo mid-2021, I was mentoring the full stack web dev bootcamp and 
 
 ### Today
 
-I am currently working fulltime as a software developer at [Checkfront](http://checkfront.com) and learning the ropes at a more mature company. My goal this year is to contribute something to my Github at least 5 days a week, even if it is small. I am also studying PHP and architecture in my spare time so I hope to be more proficient in those areas by the year's end. 
+I am currently working fulltime as a software developer at [Checkfront](http://checkfront.com) and learning the ropes at a more mature company. My personal goal this year is to consistently contribute to my own personal projects, work on courses, or read development textbooks at least 5x a week. I am currently studying PHP and architecture in my spare time so I hope to be more proficient in those areas by the year's end. 
