@@ -1,5 +1,6 @@
 <p align="center" width="100%">
-![gh-image](https://user-images.githubusercontent.com/38962736/179900604-aa972238-8051-4cd0-84a5-b133b2aa0485.gif)
+   <img src="https://user-images.githubusercontent.com/38962736/179900604-aa972238-8051-4cd0-84a5-b133b2aa0485.gif" alt="animated" />
+<!-- ![gh-image]() -->
 </p>
 
 ### Quick Links
