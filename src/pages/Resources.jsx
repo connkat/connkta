@@ -5,11 +5,11 @@ import Fade from "react-reveal/Fade";
 import "./Resources.css";
 
 // images
-import Projects from "../components/resources/projects";
-import Writing from "../components/resources/writing";
-import Art from "../components/resources/art";
-import Resume from "../components/resources/resume";
-import Hiking from "../components/resources/hiking";
+import Projects from "../components/resources/Projects";
+import Writing from "../components/resources/Writing";
+import Art from "../components/resources/Art";
+import Resume from "../components/resources/Resume";
+import Hiking from "../components/resources/Hiking";
 
 function Resources() {
   return (
