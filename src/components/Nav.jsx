@@ -1,6 +1,6 @@
 import "./Nav.css";
 import { Link } from "react-router-dom";
-import resources from "../images/resources.png";
+import writing from "../images/writing-nav.png";
 import contact from "../images/contact.png";
 import connkat from "../images/connkat.png";
 
@@ -8,8 +8,8 @@ function Nav() {
   return (
     <div className="Nav">
       <div className="Link">
-        <Link to="/resources">
-        <img src={resources} className="nav-links" alt="nav-logo" />
+        <Link to="/writing">
+        <img src={writing} className="nav-links" alt="nav-logo" />
         </Link>
       </div>
       <div className="nav-logo">

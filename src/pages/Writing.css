@@ -1,0 +1,10 @@
+.Writing-page {
+    padding-top: 20vh;
+}
+/* ////   Mobile   //// */
+
+@media only screen and (max-width: 600px) {
+    .Writing-page {
+        padding-top: 10vh;
+    }
+} 

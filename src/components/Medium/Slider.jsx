@@ -2,10 +2,9 @@ import React from "react";
 import { Grid } from "@material-ui/core";
 import axios from "axios";
 
-import PostCard from "../components/Medium/PostCard";
-import "./Writing.css";
+import PostCard from "./PostCard";
 
-class Writing extends React.Component {
+class Slider extends React.Component {
   constructor(props) {
     super(props);
     this.state = { itemRows: [], avatar: "", profileLink: "" };
@@ -41,14 +40,12 @@ class Writing extends React.Component {
     const { itemRows } = this.state;
 
     return (
-      <div className="Writing-page">
-        <Grid container spacing={1}>
-          {itemRows.map((row, id) =>
-            row.map((item, key) => <PostCard {...item} key={key} />)
-          )}
-        </Grid>
-      </div>
+      <Grid container spacing={1}>
+        {itemRows.map((row, id) =>
+          row.map((item, key) => <PostCard {...item} key={key} />)
+        )}
+      </Grid>
     );
   }
 }
-export default Writing;
+export default Slider;

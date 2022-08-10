@@ -1189,6 +1189,32 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fortawesome/fontawesome-common-types@6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.1.2.tgz#c1095b1bbabf19f37f9ff0719db38d92a410bcfe"
+  integrity sha512-wBaAPGz1Awxg05e0PBRkDRuTsy4B3dpBm+zreTTyd9TH4uUM27cAL4xWyWR0rLJCrRwzVsQ4hF3FvM6rqydKPA==
+
+"@fortawesome/fontawesome-svg-core@^6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.1.2.tgz#11e2e8583a7dea75d734e4d0e53d91c63fae7511"
+  integrity sha512-853G/Htp0BOdXnPoeCPTjFrVwyrJHpe8MhjB/DYE9XjwhnNDfuBCd3aKc2YUYbEfHEcBws4UAA0kA9dymZKGjA==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "6.1.2"
+
+"@fortawesome/free-solid-svg-icons@^6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.1.2.tgz#491d668b8a6603698d0ce1ac620f66fd22b74c84"
+  integrity sha512-lTgZz+cMpzjkHmCwOG3E1ilUZrnINYdqMmrkv30EC3XbRsGlbIOL8H9LaNp5SV4g0pNJDfQ4EdTWWaMvdwyLiQ==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "6.1.2"
+
+"@fortawesome/react-fontawesome@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@fortawesome/react-fontawesome/-/react-fontawesome-0.2.0.tgz#d90dd8a9211830b4e3c08e94b63a0ba7291ddcf4"
+  integrity sha512-uHg75Rb/XORTtVt7OS9WoK8uM276Ufi7gCzshVWkUJbHhh3svsUUeqXerrM96Wm7fRiDzfKRwSoahhMIkGAYHw==
+  dependencies:
+    prop-types "^15.8.1"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -2602,6 +2628,14 @@ axe-core@^4.0.2:
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.1.2.tgz#7cf783331320098bfbef620df3b3c770147bc224"
   integrity sha512-V+Nq70NxKhYt89ArVcaNL9FDryB3vQOd+BFXZIfO3RP6rwtj+2yqqqdHEkacutglPaZLkJeuXKCjCJDMGPtPqg==
 
+axios@^0.27.2:
+  version "0.27.2"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.27.2.tgz#207658cc8621606e586c85db4b41a750e756d972"
+  integrity sha512-t+yRIyySRTp/wua5xEr+z1q60QmLq8ABsS5O9Me1AsE5dfKqgnCFzwiCZZ/cGNd1lq4/7akDWMxdhVlucjmnOQ==
+  dependencies:
+    follow-redirects "^1.14.9"
+    form-data "^4.0.0"
+
 axobject-query@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/axobject-query/-/axobject-query-2.2.0.tgz#943d47e10c0b704aa42275e20edf3722648989be"
@@ -3422,7 +3456,7 @@ colorette@^1.2.1:
   resolved "https://registry.yarnpkg.com/colorette/-/colorette-1.2.1.tgz#4d0b921325c14faf92633086a536db6e89564b1b"
   integrity sha512-puCDz0CzydiSYOrnXpz/PKd69zRrribezjtE9yd4zvytoRc8+RY/KJPvtPFKZS3E3wP6neGyMe0vOTlHO5L3Pw==
 
-combined-stream@^1.0.6, combined-stream@~1.0.6:
+combined-stream@^1.0.6, combined-stream@^1.0.8, combined-stream@~1.0.6:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/combined-stream/-/combined-stream-1.0.8.tgz#c3d45a8b34fd730631a110a8a2520682b31d5a7f"
   integrity sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg==
@@ -5130,6 +5164,11 @@ follow-redirects@^1.0.0:
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.2.tgz#dd73c8effc12728ba5cf4259d760ea5fb83e3147"
   integrity sha512-6mPTgLxYm3r6Bkkg0vNM0HTjfGrOEtsfbhagQvbxDEsEkpNhw582upBaoRZylzen6krEmxXJgt9Ju6HiI4O7BA==
 
+follow-redirects@^1.14.9:
+  version "1.15.1"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.1.tgz#0ca6a452306c9b276e4d3127483e29575e207ad5"
+  integrity sha512-yLAMQs+k0b2m7cVxpS1VKJVvoz7SS9Td1zss3XRwXj+ZDH00RJgnuLx7E44wx02kQLrdM3aOOy+FpzS7+8OizA==
+
 for-in@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"
@@ -5152,6 +5191,15 @@ fork-ts-checker-webpack-plugin@4.1.6:
     semver "^5.6.0"
     tapable "^1.0.0"
     worker-rpc "^0.1.0"
+
+form-data@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/form-data/-/form-data-4.0.0.tgz#93919daeaf361ee529584b9b31664dc12c9fa452"
+  integrity sha512-ETEklSGi5t0QMZuiXoA/Q6vcnxcLQP5vdugSpuAyi6SVGi2clPPp+xgEhuMaHC+zGgn31Kd235W35f7Hykkaww==
+  dependencies:
+    asynckit "^0.4.0"
+    combined-stream "^1.0.8"
+    mime-types "^2.1.12"
 
 form-data@~2.3.2:
   version "2.3.3"
@@ -9020,7 +9068,7 @@ prompts@2.4.0, prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-prop-types@^15.5.10:
+prop-types@^15.5.10, prop-types@^15.5.6, prop-types@^15.8.1:
   version "15.8.1"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.8.1.tgz#67d87bf1a694f48435cf332c24af10214a3140b5"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -9248,6 +9296,13 @@ react-error-overlay@^6.0.9:
   version "6.0.9"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.9.tgz#3c743010c9359608c375ecd6bc76f35d93995b0a"
   integrity sha512-nQTTcUu+ATDbrSD1BZHr5kgSD4oF8OFjxun8uAaL8RwPBacGBNPf/yAuVVdx17N8XNzRDMrZ9XcKZHCjPW+9ew==
+
+react-fontawesome@^1.7.1:
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/react-fontawesome/-/react-fontawesome-1.7.1.tgz#f74f5a338fef3ee3b379820109c1cba47290f035"
+  integrity sha512-kottReWW1I9Uupub6A5YX4VK7qfpFnEjAcm5zB4Aepst7iofONT27GJYdTcRsj7q5uQu9PXBL7GsxAFKANNUVg==
+  dependencies:
+    prop-types "^15.5.6"
 
 react-is@^16.13.1, react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1:
   version "16.13.1"
