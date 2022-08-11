@@ -2,7 +2,7 @@ import React from "react";
 import { Grid } from "@material-ui/core";
 import axios from "axios";
 
-import PostCard from "../components/Medium/PostCard";
+import MediumCard from "../components/Medium/MediumCard";
 import "./Writing.css";
 
 class Writing extends React.Component {
@@ -54,7 +54,7 @@ class Writing extends React.Component {
           {itemRows
             .slice(0, 3)
             .map((row, id) =>
-              row.map((item, key) => <PostCard {...item} key={key} />)
+              row.map((item, key) => <MediumCard {...item} key={key} />)
             )}
         </Grid>
       </div>
