@@ -35,17 +35,27 @@ class Writing extends React.Component {
         });
 
         this.setState({ itemRows: itemRows });
+        console.log("11111", posts.length);
       });
   }
   render() {
     const { itemRows } = this.state;
 
     return (
-      <div className="Writing-page">
+      <div className="writing-page">
+        <div className="writing-title">
+          <h2>
+            I like to publish articles on{" "}
+            <a href="https://medium.com/@connkat">Medium</a>, here are my most
+            recent ones:
+          </h2>
+        </div>
         <Grid container spacing={1}>
-          {itemRows.map((row, id) =>
-            row.map((item, key) => <PostCard {...item} key={key} />)
-          )}
+          {itemRows
+            .slice(0, 3)
+            .map((row, id) =>
+              row.map((item, key) => <PostCard {...item} key={key} />)
+            )}
         </Grid>
       </div>
     );
