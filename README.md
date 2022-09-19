@@ -13,4 +13,4 @@
  - :credit_card:	 Joined [Neo Financial](http://neofinancial.com) as employee #21
  - :money_with_wings:	Freelanced for a hot min
  - :woman_teacher:	Instructor && Mentor at [Lighthouse Labs](http://lighthouselabs.ca)
- - :tree: Intermediate Full stack developer at Checkfront
+ - :palm-tree: Intermediate Full stack developer at Checkfront
