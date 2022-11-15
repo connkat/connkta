@@ -4,7 +4,7 @@
 
 
 ### Quick Links
- - :page_with_curl:	[Resume](https://github.com/connkat/Resume/blob/master/KConnolly%202022.pdf) 
+ - :page_with_curl:	[Resume]([https://github.com/connkat/Resume/blob/master/KConnolly%202022.pdf](https://github.com/connkat/Resume/blob/master/KConnolly.pdf)) 
  - :floppy_disk:	[Personal Website](http://connkat.com)
  - :pencil2:	[Medium](https://medium.com/@connkat)
 
