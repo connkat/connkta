@@ -25,7 +25,7 @@ function Home() {
           </div>
           <div className="icon-links">
             <a
-              href="https://github.com/connkat/Resume/blob/master/KConnolly2022.pdf"
+              href="https://github.com/connkat/Resume/blob/master/KConnolly.pdf"
               target="_blank"
               rel="noreferrer"
             >
