@@ -10,7 +10,7 @@
 
 ### History 
  - :computer: Pivoted to tech in 2018
- - :credit_card:	 Joined [Neo Financial](http://neofinancial.com) as employee #21
- - :money_with_wings:	Freelanced for a hot min
- - :woman_teacher:	Instructor && Mentor at [Lighthouse Labs](http://lighthouselabs.ca)
- - :palm_tree: Intermediate Fullstack Developer at Checkfront
+ - :credit_card:	 Joined [Neo Financial](http://neofinancial.com) as employee #21.
+ - :money_with_wings:	Freelanced for a hot min.
+ - :woman_teacher:	Instructor && Mentor at [Lighthouse Labs](http://lighthouselabs.ca).
+ - :palm_tree: Intermediate Fullstack Developer at Checkfront.
