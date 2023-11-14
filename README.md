@@ -16,4 +16,4 @@
  - :palm_tree: Intermediate Fullstack Developer at Checkfront.
 
 
-![Snake animation](https://github.com/connkat/connkat/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/connkat/connkat/output/github-contribution-grid-snake-dark.svg)
