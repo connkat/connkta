@@ -9,7 +9,7 @@
  - :pencil2:	[Medium](https://medium.com/@connkat)
 
 ### Today 
- - :palm_tree:   Intermediate Fullstack Developer at Checkfront
+ - :grey_question:   Freelancing and building startups
  - :woman_student:   Creating free courses for developers (launching soon!)
  - :couple_with_heart_woman_woman:   DEIB Advocate
  - :classical_building:   Learning more about System Design & Architecture
@@ -19,6 +19,7 @@
  - :credit_card:	 Joined [Neo Financial](http://neofinancial.com) as employee #21
  - :money_with_wings:	Freelanced for a hot min.
  - :woman_teacher:	Former Instructor && Mentor at [Lighthouse Labs](http://lighthouselabs.ca)
+ - :palm_tree:   Intermediate Fullstack Developer at Checkfront
 
 
 ![Snake animation](https://raw.githubusercontent.com/connkat/connkat/output/github-contribution-grid-snake-dark.svg)
