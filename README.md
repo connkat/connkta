@@ -9,7 +9,7 @@
  - :pencil2:	[Medium](https://medium.com/@connkat)
 
 ### Today 
- - :grey_question:   Freelancing and building startups
+ - :construction_worker_woman:   Freelancing and building startups
  - :woman_student:   Creating free courses for developers (launching soon!)
  - :couple_with_heart_woman_woman:   DEIB Advocate
  - :classical_building:   Learning more about System Design & Architecture
