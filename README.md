@@ -19,7 +19,7 @@
  - :credit_card:	 Joined [Neo Financial](http://neofinancial.com) as employee #21
  - :money_with_wings:	Freelanced for a hot min.
  - :woman_teacher:	Former Instructor && Mentor at [Lighthouse Labs](http://lighthouselabs.ca)
- - :palm_tree:   Intermediate Fullstack Developer at Checkfront
+ - :palm_tree:   Fullstack Developer at [Checkfront](http:checkfront.com): Payments, APIs, Internal Tools
 
 
 ![Snake animation](https://raw.githubusercontent.com/connkat/connkat/output/github-contribution-grid-snake-dark.svg)
