@@ -1,5 +1,5 @@
 // packages
-import Fade from "react-reveal/Fade";
+// import Fade from "react-reveal/Fade";
 
 // styling
 import "./Resources.css";
@@ -13,26 +13,26 @@ import Hiking from "../components/resources/Hiking";
 
 function Resources() {
   return (
-    <body>
-      <div className="resources">
-        <Fade>
-          <Projects />
-        </Fade>
-        <Fade>
-          <Writing />
-        </Fade>
-        <Fade>
-          <Resume />
-        </Fade>
-        <Fade>
-          <Art />
-        </Fade>
-        <Fade>
-          <Hiking />
-        </Fade>
-      </div>
-    </body>
-  );
+		<body>
+			<div className="resources">
+				{/* <Fade> */}
+				<Projects />
+				{/* </Fade> */}
+				{/* <Fade> */}
+				<Writing />
+				{/* </Fade> */}
+				{/* <Fade> */}
+				<Resume />
+				{/* </Fade> */}
+				{/* <Fade> */}
+				<Art />
+				{/* </Fade> */}
+				{/* <Fade> */}
+				<Hiking />
+				{/* </Fade> */}
+			</div>
+		</body>
+	);
 }
 
 export default Resources;
