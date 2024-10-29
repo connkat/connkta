@@ -1,7 +1,5 @@
 <p align="center" width="100%">
-   <img src="https://user-images.githubusercontent.com/38962736/180025690-ee836b18-7204-43de-adaf-079067f85631.gif" />
-
-   
+   <img src="https://github.com/connkat/connkat/blob/main/public/gh-animation.gif" />
 </p>
 
 
